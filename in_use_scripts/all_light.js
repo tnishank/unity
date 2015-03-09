@@ -15,7 +15,7 @@ var Relay : relay;
 var Switch : switch_light; 
 
 function Start(){
-	light1();
+//	light1();
 }
 function Update(){
 	if (fan1_state ==1)
